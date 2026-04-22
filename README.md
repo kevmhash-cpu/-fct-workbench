@@ -2,6 +2,11 @@
 
 Graph-based analyst tool for detecting structure-driven credibility transfer in narrative artifacts.
 
+## Why this matters
+
+Analysts increasingly face narratives that appear coherent before they are evidentially supported.
+
+This tool attempts to surface that gap structurally—highlighting when narrative structure may be driving perceived credibility more than underlying evidence.
 ---
 
 ## What this is
