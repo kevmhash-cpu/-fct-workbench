@@ -66,3 +66,9 @@ It is a working analytic construct + prototype.
 
 Prototype — April 2026  
 Not validated doctrine
+
+## Citation
+
+Hollenbeck, Kevin M. (2026).  
+*Fractal Credibility Transfer (FCT): A Structural Model for Detecting Coherence Without Evidence*.  
+Zenodo. https://doi.org/10.5281/zenodo.19732661
